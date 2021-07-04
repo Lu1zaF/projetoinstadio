@@ -1,3 +1,10 @@
-# Projeto Insta DIO
+# Projeto Instagram Dio :camera_flash:
 
--  Recriando a página inicial do Instagram através do Bootcamp HTML Web Developer da Digital Innovation One
+<i> Instagram Clone </i>
+
+Além do que foi instruído na aula:
+
+- icon Instragram;
+- footer com links originais;
+- outras alterações no css.
+
