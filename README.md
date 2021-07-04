@@ -4,7 +4,7 @@
 
 Além do que foi instruído na aula:
 
-- icon Instragram;
+- icon Instagram;
 - footer com links originais;
 - outras alterações no css.
 
